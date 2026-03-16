@@ -1,12 +1,15 @@
-# 🏠 Rent Survey Pro
+# 🤖 AI Tool Templates by Tech Tony
 
-**Get professional rent surveys in 10 minutes using AI + Zillow data.**
+**Build your own Custom GPTs and Gemini Gems. No coding required.**
 
-No coding required. Just instructions you can copy and paste.
+Free instructions, system prompts, and templates you can copy and use.
 
 ---
 
 ## What's Included
+
+### 🏠 Rent Survey Pro
+Get professional rent surveys in 10 minutes using AI + Zillow data.
 
 | Tool | Description | Link |
 |------|-------------|------|
@@ -14,18 +17,26 @@ No coding required. Just instructions you can copy and paste.
 | **Gemini Gem** | Free alternative using Google Gemini | [View](./gemini-gem/) |
 | **Prompt Kit** | Standalone prompt for any AI assistant | [View](./prompt-kit/) |
 
+### 📄 PDF Directory Extractor
+Turn messy PDF rosters into clean, structured data. Works with any professional directory.
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **ChatGPT Custom GPT** | System prompt + setup guide | [View](./pdf-extractor/) |
+
 ---
 
 ## Quick Start
 
-### Option 1: Use My Pre-Built GPT (ChatGPT Plus Required)
-[**Try Rent Survey Pro on ChatGPT →**](https://chatgpt.com/g/g-69b1df557478819192adbdc521a3d8bd-tech-tony-rent-survey-pro)
+### Rent Survey Pro
+- [**Use on ChatGPT →**](https://chatgpt.com/g/g-69b1df557478819192adbdc521a3d8bd-tech-tony-rent-survey-pro) (Plus required)
+- [**Use on Gemini →**](https://opal.google/app/1ZjGs5kKSQIZKi3-Erv9sPFli4ox1mOGb) (FREE)
 
-### Option 2: Use My Pre-Built Gem (FREE)
-[**Try Rent Survey Analyst on Gemini →**](https://opal.google/app/1ZjGs5kKSQIZKi3-Erv9sPFli4ox1mOGb)
+### PDF Directory Extractor
+- [**Use on ChatGPT →**](https://chatgpt.com/g/g-68072ef7b3948191a6e238a6c0c29fe9-tech-tony-pdf-directory-extractor) (Plus required)
 
-### Option 3: Build Your Own
-Follow the step-by-step guides below to create your own version.
+### Build Your Own
+Follow the step-by-step guides to create custom versions for your industry.
 
 ---
 
